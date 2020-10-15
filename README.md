@@ -22,3 +22,4 @@ Descrição dos arquivos:
  Apresentação.ppsx: Apresentação em PowerPoint;
  TCC Ciência de Dados 2020.Doc: Trabalho de conclusão em Word;
  TCC Ciência de Dados 2020.pdf: Trabalho de conclusão em pdf.
+ 
